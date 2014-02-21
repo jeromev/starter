@@ -1,9 +1,17 @@
 @import url(http://necolas.github.com/normalize.css/3.0.0/normalize.css);
+/* 
+  include padding & border in box width 
+*/
 *, *:before, *:after {
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
 }
+/* 
+  add clearfix to: 
+    header,
+    … 
+*/
 header:before,
 header:after {
   content: " ";
