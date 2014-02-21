@@ -1,0 +1,17 @@
+@import url(http://necolas.github.com/normalize.css/3.0.0/normalize.css);
+
+*, *:before, *:after {
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+header:before,
+header:after {
+  content: " ";
+  display: table;
+}
+
+header:after {
+  clear: both;
+}
