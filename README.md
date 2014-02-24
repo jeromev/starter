@@ -1,7 +1,7 @@
 starter
 =======
 
-just a kit to get started
+Just a css + js kit to get started.
 
 starter.css
 -----------
