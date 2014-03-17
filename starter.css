@@ -20,7 +20,9 @@ header:after {
 header:after {
   clear: both;
 }
-
+/*
+  support fluid images
+*/
 img {
   border: 0;
   max-width: 100%;
