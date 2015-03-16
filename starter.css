@@ -21,6 +21,12 @@ header:after {
   clear: both;
 }
 /*
+  cancel figure margins
+*/
+figure {
+  margin: 0px;
+}
+/*
   support fluid images
 */
 img {
